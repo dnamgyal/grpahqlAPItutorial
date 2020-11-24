@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20201116225451-init
+20201120010415-user-model-created
+20201123163532-fix-schema
